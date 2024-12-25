@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Supreetrathore
-- 👀 I’m interested in everything in which I'm interested in
-- 🌱 I’m currently learning python
+- 👀 I’m interested in all I want to achieve
+- 🌱 I’m currently learning pcb design, HDL, DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shreeshivaynamastobhyam777@gmail.com
 
